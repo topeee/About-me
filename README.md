@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# ABOUT ME
 
-_Get started using GitHub in less than an hour._
+
 
 </header>
 
@@ -21,43 +21,46 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## Hello, World! I'm Christopher, and I'm excited to introduce myself to you. This README is your guide to getting to know me better, both personally and professionally.
 
-_Welcome to "Introduction to GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+## ME
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+🎓 I'm a hard-working, devoted student who is always eager to learn more and discover new things.
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+🎥 I work as a Video Editor and Videographer for GCAMP Company, where I make interesting and inspiring visual stories.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+💻 In my free time, I'm on a journey to improve my web development and programming skills. I'm getting into the exciting world of code.
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![profile-readme-example](/images/profile-readme-example.png)
+### INTEREST
 
-### :keyboard: Activity: Your first branch
+📚 I care a lot about education and think that it's important to keep learning.
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+🖥️ I'm most interested in technology, imagination, new ideas, and money.
 
-   ![code-tab](/images/code-tab.png)
+🌐 Web creation and Video Editing have recently become my main interests, and I'm always looking into new languages and tools.
 
-3. Click on the **main** branch drop-down.
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+### Goals
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+🚀 To continue honing my video editing skills, pushing creative boundaries, and exploring new storytelling techniques.
 
-   ![create-branch-button](/images/create-branch-button.png)
+🤝 To connect with like-minded individuals, collaborate on exciting projects, and contribute to the tech and creative communities.
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+🌟 To become a proficient web developer and programmer, mastering languages like HTML, CSS, JavaScript, and Python.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+😎 My objective is to one day become a successful businessman.
+
+
+
+### SOCIALS
+📧 Email: toperramos23@gmail.com
+
+📱 LinkedIn: https://www.linkedin.com/in/tope3/
+
+🌐 Video Editing Service: Hexiz.studio
+
 
 <footer>
 
