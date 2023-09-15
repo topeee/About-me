@@ -59,7 +59,7 @@
 
 📱 LinkedIn: https://www.linkedin.com/in/tope3/
 
-🌐 Video Editing Service: Hexiz.studio
+🌐 Video Editing Service: https://hexiz.studio/
 
 
 <footer>
