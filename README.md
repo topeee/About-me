@@ -28,8 +28,6 @@
 
 🎓 I'm a hard-working, devoted student who is always eager to learn more and discover new things.
 
-🎥 I work as a Video Editor and Videographer for GCAMP Company, where I make interesting and inspiring visual stories.
-
 💻 In my free time, I'm on a journey to improve my web development and programming skills. I'm getting into the exciting world of code.
 
 
@@ -59,7 +57,7 @@
 
 📱 LinkedIn: https://www.linkedin.com/in/tope3/
 
-🌐 Video Editing Service: https://hexiz.studio/
+🌐 My Services: [topeesolultion.online](http://topeesolutions.online/)
 
 
 ![Tope](images/TOPE.jpg)
