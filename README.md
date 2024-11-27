@@ -7,9 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# ABOUT ME 
-
-
+# ABOUT ME
 
 </header>
 
@@ -23,13 +21,11 @@
 
 ## Hello, World! I'm Christopher, and I'm excited to introduce myself to you. This README is your guide to getting to know me better, both personally and professionally.
 
-
 ## ME
 
 🎓 I'm a hard-working, devoted student who is always eager to learn more and discover new things.
 
 💻 In my free time, I'm on a journey to improve my web development and programming skills. I'm getting into the exciting world of code.
-
 
 ### INTEREST
 
@@ -37,8 +33,7 @@
 
 🖥️ I'm most interested in technology, imagination, new ideas, and money.
 
-🌐 Web creation and Video Editing have recently become my main interests, and I'm always looking into new languages and tools.
-
+🌐 Web creation and Video Editing have recently become my main interests, and I'm always looking into new languages and tools.
 
 ### Goals
 
@@ -50,7 +45,11 @@
 
 😎 My objective is to one day become a successful businessman.
 
+### WORK
 
+🔍 **SEO** - I specialize in improving websites' visibility by applying effective SEO strategies.
+
+🌐 **WordPress Website Developer** - I design and develop websites on WordPress, focusing on custom themes and site optimization.
 
 ### SOCIALS
 📧 Email: toperramos23@gmail.com
@@ -59,8 +58,8 @@
 
 🌐 My Services: [topeesolutions.online](http://topeesolutions.online/)
 
-
 ![Tope](images/TOPE.jpg)
+
 <footer>
 
 <!--
